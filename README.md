@@ -13,7 +13,7 @@ A lightweight, frontend-only chatbot built with vanilla JavaScript. No framework
 
 ## 🖥️ Demo
 
-🔗 **Live Demo:** https://your-username.github.io/mock-chatbot
+🔗 **Live Demo:** https://nb-chatbot.vercel.app/
 
 ## 📁 Project Structure
 
