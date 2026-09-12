@@ -31,8 +31,8 @@ nb-chatbot/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/mock-chatbot.git
-cd mock-chatbot
+git clone https://github.com/nhlamulobaloyi006/nb-chatbot.git
+cd nb-chatbot
 ```
 
 ### 2. Run it
